@@ -1,0 +1,7 @@
+Google dork used: filetype:sql (password OR passwd OR pwd OR username OR user)
+Result found: https://knowledge.intershop.com/kb/index.php/.../createIcmDB.sql
+Saved evidence: recon/passive/google_dorking_2025-10-18 at 18.54.48_ca21a0e9
+Screenshot: recon/passive/google_dorking_2025-10-18 185707
+Note: File contains apparent DB user/password assignment lines (e.g. @UserID = 'user2', @Password = 'user2'). No further access attempted due to scope/authorization limits.
+
+Important: All discovery via Google dorking was limited to passive observation. No attempts were made to authenticate or access systems using discovered credentials. All testing was performed only on authorized targets or for the purpose of reporting exposures responsibly.

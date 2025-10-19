@@ -1,0 +1,13 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-18 19:42 IST
+Nmap scan report for 192.168.0.1
+Host is up (0.0052s latency).
+MAC Address: 28:EE:52:EA:5B:DF (TP-Link Technologies)
+Nmap scan report for 192.168.0.126
+Host is up (0.0039s latency).
+MAC Address: 20:17:42:92:B7:EA (LG Electronics)
+Nmap scan report for 192.168.0.180
+Host is up (0.038s latency).
+MAC Address: 14:07:08:96:60:A8 (CP Plus Gmbh & KG)
+Nmap scan report for 192.168.0.176
+Host is up.
+Nmap done: 256 IP addresses (4 hosts up) scanned in 2.30 seconds

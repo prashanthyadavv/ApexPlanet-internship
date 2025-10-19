@@ -1,0 +1,3 @@
+     22 High
+      6 Low
+     40 Medium
