@@ -1,8 +1,0 @@
-Starting Nmap 7.95 ( https://nmap.org ) at 2025-10-18 21:49 IST
-Nmap scan report for 192.168.0.199
-Host is up (0.0066s latency).
-All 1000 scanned ports on 192.168.0.199 are in ignored states.
-Not shown: 1000 closed tcp ports (reset)
-MAC Address: 08:00:27:E4:C9:F1 (PCS Systemtechnik/Oracle VirtualBox virtual NIC)
-
-Nmap done: 1 IP address (1 host up) scanned in 0.51 seconds
