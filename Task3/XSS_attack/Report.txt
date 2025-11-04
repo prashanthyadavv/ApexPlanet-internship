@@ -1,0 +1,5 @@
+I submitted <script>alert('XSS Stored')</script> to the form in DVWA. At low security, an alert pop-up appeared, confirming XSS. At high security, the code was sanitized and did not execute.
+
+My payload was echoed to the browser and executed on low setting; on high setting, input was rendered safe.
+
+Input filtering, output encoding, and the use of Content Security Policy (CSP) prevent XSS exploits
