@@ -1,0 +1,1 @@
+In the ‘Low’ security setting, user inputs are passed directly in a dynamic SQL query, making them vulnerable to injection. At higher security settings, DVWA internally switches to prepared statements, which safely bind parameters, preventing injection—even if malicious input is supplied.
