@@ -1,0 +1,1 @@
+Configured UFW firewall with “deny incoming, allow outgoing” default policy. Allowed only essential ports (SSH, HTTP/HTTPS). Verified firewall status using ufw status
